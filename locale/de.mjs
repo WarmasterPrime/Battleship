@@ -1,0 +1,37 @@
+
+const DE = {
+	playAgainQuestion: "Möchtest du noch einmal spielen?",
+	coordinatePrompt: "Gib die Koordinaten für Reihe und Spalte ein: ",
+	showStats: "STATISTIKEN ANZEIGEN",
+	enterChoice: "Auswahl eingeben: ",
+	mainMenu: "Hauptmenü",
+	exit: "Beenden",
+	play: "Spielen",
+	stats: "Statistiken",
+	matrixIndexInvalid: "Matrixindex ist ungültig.",
+	
+	win: "Du hast gewonnen!",
+	lose: "Du hast verloren!",
+	pressEnterToContinue: "Drücke Enter, um fortzufahren...",
+	language: "Sprache",
+	english: "Englisch",
+	norwegian: "Norwegisch",
+	german: "Deutsch",
+	spanish: "Spanisch",
+	french: "Französisch",
+	hawaiian: "Hawaiianisch",
+	russian: "Russisch",
+	settings: "Einstellungen",
+	yes: "Ja",
+	no: "Nein",
+	save: "Speichern",
+	cancel: "Abbrechen",
+	difficulty: "Schwierigkeitsgrad",
+	level: "Level",
+	easy: "Einfach",
+	normal: "Normal",
+	hard: "Schwer",
+	score: "Punktestand",
+};
+
+export { DE };
